@@ -1,7 +1,7 @@
 # **The Simon Game**
 
 **The Simon Game** website, offers users an engaging and limitless gaming experience with no restrictions on the number of levels and captivating sound effects, animations for each button.
-#### link to website: https://the-simon-game.onrender.com
+#### link to website:  https://sakethinnani.github.io/The-Simon-Game/
 
 
 ## Instructions
